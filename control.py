@@ -1,23 +1,23 @@
 a = int(input("Enter the number:"))
-if a==0:
-    print("The Number Is Zero")
+if a == 0:
+    print("You Clicked Zero")
 elif a == 1:
-    print("The Number Is One")
+    print("You Clicked One")
 elif a == 2:
-    print("The Number Is Two")
+    print("You Clicked Two")
 elif a == 3:
-    print("The Number Is Three")
+    print("You Clicked Three")
 elif a == 4:
-    print("The Number Is Four")
+    print("You Clickeds Four")
 elif a == 5:
-    print("The Number Is Five")
+    print("You Clickeds Five")
 elif a == 6:
-    print("The Number Is Six")
+    print("You Clicked Six")
 elif a == 7:
-    print("The Number Is Seven")
+    print("You Clicked Seven")
 elif a == 8:
-    print("The Number Is Eight")
+    print("You Clicked Eight")
 elif a == 9:
-    print("The Number Is Nine")
+    print("You Clicked Nine")
 else:
-    print("Enter The Valide Number")
+    print("You Clicked Invalide Number")
